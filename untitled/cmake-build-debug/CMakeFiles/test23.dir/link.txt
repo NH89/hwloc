@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/test23.dir/main.c.o CMakeFiles/test23.dir/main2.c.o  -o test23  -L/usr/lib/x86_64-linux-gnu/libOpenCL.so -Wl,-rpath,/usr/lib/x86_64-linux-gnu/libOpenCL.so libsph_libs.a -lOpenCL -lm -lhwloc -lmpi -lpthread 

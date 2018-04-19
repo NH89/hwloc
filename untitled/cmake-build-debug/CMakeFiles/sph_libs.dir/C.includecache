@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kamil/CLionProjects/untitled/C_common/device_info.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+OpenCL/opencl.h
+-
+CL/cl.h
+-
+
+/home/kamil/CLionProjects/untitled/C_common/wtime.c
+omp.h
+-
+sys/time.h
+-
+stdlib.h
+-
+

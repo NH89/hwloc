@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kamil/CLionProjects/untitled/C_common/err_code.h
+OpenCL/opencl.h
+-
+CL/cl.h
+-
+cstdio
+-
+
+/home/kamil/CLionProjects/untitled/main.c
+hwloc.h
+-
+errno.h
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+CL/cl_ext.h
+-
+sys/syscall.h
+-
+CL/cl.h
+-
+C_common/err_code.h
+/home/kamil/CLionProjects/untitled/C_common/err_code.h
+

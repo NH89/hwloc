@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/test_mpi.dir/main.c.o  -o test_mpi  -L/usr/lib/x86_64-linux-gnu/libOpenCL.so -Wl,-rpath,/usr/lib/x86_64-linux-gnu/libOpenCL.so libsph_libs.a -lOpenCL -lm -lhwloc -lmpi 

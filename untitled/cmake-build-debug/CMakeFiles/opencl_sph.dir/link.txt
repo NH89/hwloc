@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/opencl_sph.dir/main.c.o  -o opencl_sph  -L/usr/lib/x86_64-linux-gnu/libOpenCL.so -Wl,-rpath,/usr/lib/x86_64-linux-gnu/libOpenCL.so libsph_libs.a -lOpenCL -lm -lhwloc -lmpi 

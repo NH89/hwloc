@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsph_libs.a  CMakeFiles/sph_libs.dir/C_common/device_info.c.o CMakeFiles/sph_libs.dir/C_common/wtime.c.o
+/usr/bin/ranlib libsph_libs.a

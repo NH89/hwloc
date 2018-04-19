@@ -1,0 +1,4 @@
+/home/kamil/CLionProjects/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kamil/CLionProjects/untitled/cmake-build-debug/CMakeFiles/test_mpi.dir
+/home/kamil/CLionProjects/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kamil/CLionProjects/untitled/cmake-build-debug/CMakeFiles/sph_libs.dir
